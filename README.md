@@ -1,4 +1,4 @@
-# Aquabot
+ Aquabot
 📋 Description
 
 This is a Python-based simulation of an automated plant watering system.
