@@ -1,13 +1,11 @@
 """
 Simple Automated Watering System Simulator
-Author: Your Name
+Author: Hiya
 Description:
 Simulates soil moisture monitoring and watering control.
 Includes rain check, manual override, and optional user input.
 """
 
-import time
-import random
 
 # ----------------------------
 # Configuration
@@ -118,3 +116,4 @@ if __name__ == "__main__":
         main_loop()
     except KeyboardInterrupt:
         print("\n🛑 Simulation stopped by user.")
+
